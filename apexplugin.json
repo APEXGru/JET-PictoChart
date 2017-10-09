@@ -3,9 +3,9 @@
   "version" : "1.0.0",
   "description" : "Region Plugin to show a JET PictoChart based on a SQL statement.",
   "keywords" : ["JET","chart"],
-  "homepage" : "https://github.com/ApexGru/JET-PictoChart",
+  "homepage" : "https://github.com/APEXGru/JET-PictoChart",
   "bugs" : {
-    "url" : "https://github.com/ApexGru/JET-PictoChart/issues",
+    "url" : "https://github.com/APEXGru/JET-PictoChart/issues",
     "email" : "roelhartman@gmail.com"
   },
   "license" : "MIT",
@@ -17,7 +17,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/ApexGru/JET-PictoChart.git"
+    "url" : "https://github.com/APEXGru/JET-PictoChart.git"
   },
   "oracle" : {
     "versions" : ["11.x, 12.x"],
@@ -27,7 +27,7 @@
         "internalName" : "COM.APEXCONSULTING.APEX.JET.PICTOCHART",
         "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=ROELSAPEXJET:PICTO",
-        "previewImage" : "https://github.com/ApexGru/JET-PictoChart/preview.gif"
+        "previewImage" : "https://github.com/APEXGru/JET-PictoChart/preview.gif"
       }
     }
   }
