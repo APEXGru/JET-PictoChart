@@ -22,7 +22,7 @@ The implemented Plugin Settings (you could at many more):
 
 ## How to use
 - Create a new Region based on the Plugin
-- Add a SQL Statement like the example below. As this is the easiest example possible, you have to name the columns exactly like the example (both naming and lowercase). These column aliases are used to cosntruct the correct JSON object.
+- Add a SQL Statement like the example below. As this is the easiest example possible, you have to name the columns exactly like the example (both naming and lowercase). These column aliases are used to construct the correct JSON object.
 ```
 select ename||' - '||job||'@'||dname "name"
 ,      'human' "shape"
@@ -42,6 +42,12 @@ order by 2 desc, 4
 ## Demo Application
 [https://apex.oracle.com/pls/apex/f?p=ROELSAPEXJET:PICTO](https://apex.oracle.com/pls/apex/f?p=ROELSAPEXJET:PICTO)
 
+## Blogpost
+I've blogged about this solution quite a while before - even before JET was included in APEX. So please check out these two part blog posts:
+[http://roelhartman.blogspot.com/2016/08/creating-apex-plugin-for-oracle-jet.html](http://roelhartman.blogspot.com/2016/08/creating-apex-plugin-for-oracle-jet.html) and 
+[http://roelhartman.blogspot.com/2016/08/saturday-august-20-2016-creating-apex.html](http://roelhartman.blogspot.com/2016/08/saturday-august-20-2016-creating-apex.html)) 
+for more background info.
 
-## Previews
+
+## Preview
 ## ![](https://github.com/APEXGru/JET-PictoChart/raw/master/preview.png)
