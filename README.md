@@ -43,5 +43,5 @@ order by 2 desc, 4
 [https://apex.oracle.com/pls/apex/f?p=ROELSAPEXJET:PICTO](https://apex.oracle.com/pls/apex/f?p=ROELSAPEXJET:PICTO)
 
 
-## Preview
+## Previews
 ## ![](https://github.com/APEXGru/JET-PictoChart/raw/master/preview.png)
