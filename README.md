@@ -44,4 +44,4 @@ order by 2 desc, 4
 
 
 ## Preview
-## ![](/preview.gif?raw=true)
+## ![](https://github.com/APEXGru/JET-PictoChart/raw/master/preview.png)
