@@ -20,8 +20,9 @@
     "url" : "https://github.com/APEXGru/JET-PictoChart.git"
   },
   "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
     "apex" : {
-      "versions" : ["5.1.x"],
+      "versions" : ["5.1.0,5.1.1,5.1.2"],
       "plugin" : {
         "internalName" : "COM.APEXCONSULTING.APEX.JET.PICTOCHART",
         "type" : "region",
